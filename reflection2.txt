@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing a git repository initializes an empty git repo in the directory you are in. After that you can use git log and git status to see the log and status of your files and use version control.
